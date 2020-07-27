@@ -1,7 +1,8 @@
-package pages;
+package exercise.chapter4.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import pages.RetrievePasswordPage;
 
 public class ForgotPasswordPage {
     private WebDriver driver;
