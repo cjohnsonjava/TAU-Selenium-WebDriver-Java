@@ -5,6 +5,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
@@ -45,18 +46,22 @@ public class BaseTests {
     }
 
     /*
-     * This will run after each test runs.
-     * The method will take a screenshot, put it in our project
+     * This will run if a test fails.
+     * The method will take a screenshot, give it the name of the test
+     * and put it in our project
      * in the screenshots directory folder
      */
     @AfterMethod
-    public void takeScreenshot(){
-        var camera = (TakesScreenshot)driver;
-        File screenshot = camera.getScreenshotAs(OutputType.FILE);
-        try {
-            Files.move(screenshot, new File("resources/screenshots/test.png"));
-        }catch(IOException e){
-            e.printStackTrace();
+    public void recordFailure(ITestResult result){
+        if(ITestResult.FAILURE == result.getStatus())
+        {
+            var camera = (TakesScreenshot)driver;
+            File screenshot = camera.getScreenshotAs(OutputType.FILE);
+            try {
+                Files.move(screenshot, new File("resources/screenshots/"+ result.getName() + ".png"));
+            }catch(IOException e){
+                e.printStackTrace();
+            }
         }
     }
 
