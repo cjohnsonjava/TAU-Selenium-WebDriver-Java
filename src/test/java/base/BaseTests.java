@@ -1,5 +1,6 @@
 package base;
 
+import com.google.common.io.Files;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -13,6 +14,7 @@ import utils.WindowManager;
 import utils.WindowsTabManager;
 
 import java.io.File;
+import java.io.IOException;
 
 public class BaseTests {
 
@@ -44,15 +46,18 @@ public class BaseTests {
 
     /*
      * This will run after each test runs.
-     * The method will take a screenshot
-     * and save it as a file
+     * The method will take a screenshot, put it in our project
+     * in the screenshots directory folder
      */
-
     @AfterMethod
     public void takeScreenshot(){
         var camera = (TakesScreenshot)driver;
         File screenshot = camera.getScreenshotAs(OutputType.FILE);
-        System.out.println("Screenshot taken: " + screenshot.getAbsolutePath());
+        try {
+            Files.move(screenshot, new File("resources/screenshots/test.png"));
+        }catch(IOException e){
+            e.printStackTrace();
+        }
     }
 
     /*
