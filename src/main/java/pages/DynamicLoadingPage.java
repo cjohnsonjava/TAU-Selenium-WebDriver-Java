@@ -1,10 +1,10 @@
-/*
- * Chapter 9 - Wait Strategies
- */
 package pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
 public class DynamicLoadingPage {
     private WebDriver driver;
@@ -24,5 +24,18 @@ public class DynamicLoadingPage {
     public DynamicLoadingExample2Page clickExample2(){
         driver.findElement(link_Example2).click();
         return new DynamicLoadingExample2Page(driver);
+    }
+
+    /*
+     * Added method for Chapter 11 - Independent exercise
+     * simulate a right click
+     */
+    public void rightclickExample2(){
+        WebElement rightClick = driver.findElement(link_Example2);
+        Actions actions = new Actions(driver);
+                actions.keyDown(Keys.LEFT_CONTROL)
+                .click(rightClick)
+                .build()
+                .perform();
     }
 }
