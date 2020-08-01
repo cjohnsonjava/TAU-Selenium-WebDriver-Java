@@ -1,6 +1,6 @@
-/**
- Independent Exercise 9
- Use the waiting strategy to verify the Hello World! text displays
+/*
+ * Independent Exercises 9,11
+ * Use the waiting strategy to verify the Hello World! text displays
  */
 package pages;
 
@@ -37,5 +37,13 @@ public class DynamicLoadingExample2Page {
                return driver.findElement(loadedText).getText();
     }
 
+    /*
+    Chapter 11 - Independent exercise added this method to get the text of the Start button
+     */
+    public String getButtonTextExample2(){
+        return driver.findElement(startButton).getText();
+    }
 
 }
+
+
