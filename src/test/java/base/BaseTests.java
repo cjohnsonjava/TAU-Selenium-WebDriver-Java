@@ -7,6 +7,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import pages.HomePage;
 import utils.WindowManager;
+import utils.WindowsTabManager;
 
 public class BaseTests {
 
@@ -41,5 +42,9 @@ public class BaseTests {
      */
     public WindowManager getWindowManager(){
         return new WindowManager(driver);
+    }
+
+    public WindowsTabManager getTabWindowManager(){
+        return new WindowsTabManager(driver);
     }
 }
