@@ -28,7 +28,7 @@ public class DynamicLoadingPage {
 
     /*
      * Added method for Chapter 11 - Independent exercise
-     * simulate a right click
+     * opens a new tab by holding the left Ctrl key and clicking on the mouse
      */
     public void rightclickExample2(){
         WebElement rightClick = driver.findElement(link_Example2);
