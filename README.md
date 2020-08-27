@@ -1,17 +1,17 @@
-Test Automation University Course: Selenium WebDriver with Java Independent Exercises completed.
+<b>Test Automation University Course: Selenium WebDriver with Java Independent Exercises completed.</b>
 
-Chapter 3 - Finding Web Elements Exercise. Uses findElement and findElements methods
+<b>Chapter 3</b> - Finding Web Elements Exercise. Uses findElement and findElements methods
 
-Chapter 4 - Element Interactions 
+<b>Chapter 4</b> - Element Interactions 
  
-Chapter 6 - Additional Keys.
+<b>Chapter 6</b> - Additional Keys.
 
-Chapter 7 - Actions
+<b>Chapter 7</b> - Actions
 
-Chapter 8 - Frames
+<b>Chapter 8</b> - Frames
 
-Chapter 9 - Wait Strategies
+<b>Chapter 9</b> - Wait Strategies
 
-Chapter 10 - Using JavaScript
+<b>Chapter 10</b> - Using JavaScript
 
-Chapter 11 - Application Navigation
+<b>Chapter 11</b> - Application Navigation
