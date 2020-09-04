@@ -1,10 +1,13 @@
 <b>Test Automation University Course: Selenium WebDriver with Java Independent Exercises completed.</b>
 
+<p><I>The completed exercises demonstrate techniques to find and interact with elements such as buttons, links, text, dropdowns,and more within a web application.
+The test code is organized using the Page Object Model.</p></I>
+
 <b>Chapter 3</b> - Finding Web Elements Exercise. Uses findElement and findElements methods
 
 <b>Chapter 4</b> - Element Interactions 
  
-<b>Chapter 6</b> - Additional Keys.
+<b>Chapter 6</b> - Additional Keys
 
 <b>Chapter 7</b> - Actions
 
