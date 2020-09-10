@@ -1,7 +1,20 @@
-<b>Test Automation University Course: Selenium WebDriver with Java Independent Exercises completed.</b>
+<h2>Test Automation University Course: Selenium WebDriver with Java Independent Exercises completed.</h2>
 
 <p><I>The completed exercises demonstrate techniques to find and interact with elements such as buttons, links, text, dropdowns,and more within a web application.
 The test code is organized using the Page Object Model.</p></I>
+
+<h2>Prerequisites:</h2>
+
+You'll need to have Java Version 10 or later, as well as the IntelliJ Editor.
+
+<h2>Resources</h2>
+<ul>
+<li>
+<a href="https://testautomationu.applitools.com/java-programming-course/" target="_blank">Free Java Programming Course</a>
+</li>
+<li><a href="https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/" target="_blank">Selenium WebDriver with Java Course</a>
+</li>
+</ul>
 
 <b>Chapter 3</b> - Finding Web Elements Exercise. Uses findElement and findElements methods
 
