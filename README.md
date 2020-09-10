@@ -4,8 +4,13 @@
 The test code is organized using the Page Object Model.</p></I>
 
 <h2>Prerequisites:</h2>
+<ul>
+<li>You'll need to have Java Version 10 or later - <a href="https://jdk.java.net/java-se-ri/11" target="_blank">Download Java OpenJDK 11</a>
+ </li>
+<li>As well as the IntelliJ Editor - <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank">IntelliJ IDEA - Community Version</a>
+ </li>
+</ul>
 
-You'll need to have Java Version 10 or later, as well as the IntelliJ Editor.
 
 <h2>Resources</h2>
 <ul>
