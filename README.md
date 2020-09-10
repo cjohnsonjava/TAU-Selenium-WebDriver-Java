@@ -1,4 +1,4 @@
-<p><b>Test Automation University Course: Selenium WebDriver with Java Independent Exercises completed.</b></p>
+<h3>Test Automation University Course: Selenium WebDriver with Java Independent Exercises completed.</h3>
 
 <p><I>The completed exercises demonstrate techniques to find and interact with elements such as buttons, links, text, dropdowns,and more within a web application.
 The test code is organized using the Page Object Model.</p></I>
