@@ -9,6 +9,8 @@ The test code is organized using the Page Object Model.</p></I>
  </li>
 <li>As well as the IntelliJ Editor - <a href="https://www.jetbrains.com/idea/download/#section=windows" target="_blank">IntelliJ IDEA - Community Version</a>
  </li>
+ <li>If your new to using Selenium WebDriver be sure to follow the setup instructions in <a href="https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter1.html" target="_blank">Chapter 1</a>
+ </li>
 </ul>
 
 
