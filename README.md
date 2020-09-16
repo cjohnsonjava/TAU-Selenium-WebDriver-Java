@@ -23,6 +23,8 @@ The test code is organized using the Page Object Model.</p></I>
 </li>
 </ul>
 
+<br><b>Clone this repo to run the tests for the exercises below</br></b>
+
 <b>Chapter 3</b> - Finding Web Elements Exercise. Uses findElement and findElements methods
 
 <b>Chapter 4</b> - Element Interactions 
