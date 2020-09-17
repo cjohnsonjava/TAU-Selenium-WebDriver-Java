@@ -24,8 +24,8 @@ The test code is organized using the Page Object Model.</p></I>
 </ul>
 
 
-<b>Feel free to clone this repo, if you would like to test out the code.</p></b>
-<b>Click each highlighted link below to view the tests which were run to validate the test conditions.</p></b>
+<p><b>Feel free to clone this repo, if you would like to test out the code.</p></b>
+<p><b>Click each highlighted link below to view the tests which were run to validate the test conditions.</p></b>
 
 
 <a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/exercise/chapter3/" target="_blank"><b>Chapter 3</b></a> - Finding Web Elements Exercise. Uses findElement and findElements methods
