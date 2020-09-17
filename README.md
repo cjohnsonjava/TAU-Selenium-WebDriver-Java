@@ -24,22 +24,22 @@ The test code is organized using the Page Object Model.</p></I>
 </ul>
 
 
-><b>Feel free to clone this repo, if you would like to test out the code.</p></b>
-><b>Click each highlighted link below to view the tests which were run to validate the test conditions.</p></b>
+<b>Feel free to clone this repo, if you would like to test out the code.</p></b>
+<b>Click each highlighted link below to view the tests which were run to validate the test conditions.</p></b>
 
 
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/exercise/chapter3/" target="_blank"><b>Chapter 3</b></a> - Finding Web Elements Exercise. Uses findElement and findElements methods
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/exercise/chapter3/" target="_blank"><b>Chapter 3</b></a> - Finding Web Elements Exercise. Uses findElement and findElements methods
 
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/forgotpassword/" target="blank"><b>Chapter 4</b></a> - Element Interactions 
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/forgotpassword/" target="blank"><b>Chapter 4</b></a> - Element Interactions 
  
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/slider/" target="blank"><b>Chapter 6</b></a> - Additional Keys
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/slider/" target="blank"><b>Chapter 6</b></a> - Additional Keys
 
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/contextmenu/" target="blank"><b>Chapter 7</b></a> - Actions
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/contextmenu/" target="blank"><b>Chapter 7</b></a> - Actions
 
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/frames/" target="blank"><b>Chapter 8</b></a> - Frames
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/frames/" target="blank"><b>Chapter 8</b></a> - Frames
 
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/wait/" target="blank"><b>Chapter 9</b></a> - Wait Strategies
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/wait/" target="blank"><b>Chapter 9</b></a> - Wait Strategies
 
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/javascript/" target="blank"><b>Chapter 10</b></a> - Using JavaScript
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/javascript/" target="blank"><b>Chapter 10</b></a> - Using JavaScript
 
-><a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/navigation/" target="blank"><b>Chapter 11</b></a> - Application Navigation
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/navigation/" target="blank"><b>Chapter 11</b></a> - Application Navigation
