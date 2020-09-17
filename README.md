@@ -25,18 +25,18 @@ The test code is organized using the Page Object Model.</p></I>
 
 <br><b>Clone this repo to run the tests for the exercises below</br></b>
 
-<b>Chapter 3</b> - Finding Web Elements Exercise. Uses findElement and findElements methods
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/exercise/chapter3/" target="_blank"><b>Chapter 3</b></a> - Finding Web Elements Exercise. Uses findElement and findElements methods
 
-<b>Chapter 4</b> - Element Interactions 
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/forgotpassword/" target="blank"><b>Chapter 4</b></a> - Element Interactions 
  
-<b>Chapter 6</b> - Additional Keys
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/slider/" target="blank"><b>Chapter 6</b></a> - Additional Keys
 
-<b>Chapter 7</b> - Actions
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/contextmenu/" target="blank"><b>Chapter 7</b></a> - Actions
 
-<b>Chapter 8</b> - Frames
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/frames/" target="blank"><b>Chapter 8</b></a> - Frames
 
-<b>Chapter 9</b> - Wait Strategies
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/wait/" target="blank"><b>Chapter 9</b></a> - Wait Strategies
 
-<b>Chapter 10</b> - Using JavaScript
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/javascript/" target="blank"><b>Chapter 10</b></a> - Using JavaScript
 
-<b>Chapter 11</b> - Application Navigation
+<a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/navigation/" target="blank"><b>Chapter 11</b></a> - Application Navigation
