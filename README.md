@@ -15,7 +15,7 @@ The test code is organized using the Page Object Model.</p></I>
 
 <li><a href="https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver/3.141.59" target="_blank">Maven Repository for Selenium Chrome Driver</a>
 
-<li><a href="selenium.dev/downloads/" target="_blank">Selenium Web Driver</a></li>
+<li><a href="https://www.selenium.dev/downloads/" target="_blank">Selenium Web Driver</a></li>
 </ul>
  
  
