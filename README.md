@@ -3,7 +3,7 @@
 <p><I>The completed exercises demonstrate techniques to find and interact with elements such as buttons, links, text, dropdowns,and more within a web application.
 The test code is organized using the Page Object Model.</p></I>
 
-<h2>Prerequisites:</h2>
+## Prerequisites:
 <ul>
 <li><a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">Java</a></li>
 
@@ -23,7 +23,7 @@ The test code is organized using the Page Object Model.</p></I>
 
 
 
-<h2>Resources</h2>
+## Resources
 <ul>
 <li><a href="https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/" target="_blank">TAU - Selenium WebDriver with Java Course</a>
 </li>
@@ -32,7 +32,7 @@ The test code is organized using the Page Object Model.</p></I>
 
 <p><b>Feel free to clone this repo, if you would like to test out the code.</p></b>
 
-<h2>Course Work</h2>
+## Course Work
 
 <a href="https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter1.html" target="_blank"><b>Chapter 1 - Set Up</b></a>
 
@@ -57,7 +57,7 @@ The test code is organized using the Page Object Model.</p></I>
 
 <a href="https://github.com/cjohnsonjava/TAU-Selenium-WebDriver-Java/tree/master/src/test/java/navigation/" target="blank"><b>Chapter 11</b></a> - Application Navigation
 
-<h2>Additional Resources</h2>
+## Additional Resources
 <ul>
 <li>
 <a href="https://testautomationu.applitools.com/java-programming-course/" target="_blank">Free Java Programming Course</a>
